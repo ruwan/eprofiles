@@ -1,4 +1,4 @@
-AppFuse Basic Spring MVC Archetype
+eProfile Basic Spring MVC Archetype
 --------------------------------------------------------------------------------
 If you're reading this then you've created your new project using Maven and
 eprofiles.  You have only created the shell of an AppFuse Java EE
@@ -16,5 +16,4 @@ To get started, please complete the following steps:
 
 3. More information can be found at:
 
-   http://appfuse.org/display/APF/AppFuse+QuickStart
-
+   
